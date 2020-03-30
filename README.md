@@ -17,7 +17,7 @@
 ### 如何部署到ModelArts？
 1. 打开华为云，进入ModelArts控制台
 2. 选择右侧“开发环境”下的“NoteBook”
-3. 点击操作界面右上角的“new”，依次新建video、pic、new、font文件夹，分别将
+3. 点击操作界面右上角的“new”，依次新建video、pic、new、font文件夹
 4. 点击操作界面右上角/“new”旁的“upload”，上传源视频和代码文件以及字体文件，具体存放位置为：
 （1）源视频————>video
 （2）代码————>根目录
